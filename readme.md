@@ -11,12 +11,14 @@
 - Lambocoin - a simple cryptocurrency built with lotionJS(for demo purpose), with Celadon plugged in.
 - [Sapling](https://github.com/reforest/sapling) - a 3D drawing package based on threeJS, to make generating trees in the browser easy and fun
 
-### Teammates
+## Teammates
 
 - [Andy Chen(amazingandyyy)](https://github.com/amazingandyyy)
 - [Ryan Cheung)](https://github.com/cheung31)
 - [Hayden Marx](https://github.com/Haydenmarx)
 - [Nuno](https://github.com/storycoding)
+
+## Hackathon Info
 
 - [H4YT hackathon](https://c4yt.devpost.com/)
   - Date: April 06 ~ 08, 2018
@@ -24,3 +26,8 @@
   - sponsored by [Purse](https://purse.io/shop) & [Cosmos](https://cosmos.network/).
   - [devpost](https://devpost.com/software/celadon-by-reforest-team)
   - [presentation slide](https://docs.google.com/presentation/d/1Veeuy9ZahjfFb-Q383oqOJj4XzvHsBXn4MN08liqGyI/edit?usp=sharing)
+
+
+  ## We love open source
+
+  We are looking for contributors.
