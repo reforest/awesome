@@ -27,6 +27,12 @@
   - [devpost](https://devpost.com/software/celadon-by-reforest-team)
   - [presentation slide](https://docs.google.com/presentation/d/1Veeuy9ZahjfFb-Q383oqOJj4XzvHsBXn4MN08liqGyI/edit?usp=sharing)
 
+## Resources We love
+
+- [lotionjs](https://lotionjs.com/)
+- [Tendermint](https://github.com/tendermint/tendermint)
+- [Cosmos](https://cosmos.network/)
+
 
   ## We love open source
 
