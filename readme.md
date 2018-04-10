@@ -11,6 +11,13 @@
 - [Lambocoin](https://github.com/reforest/lambocoin)- a simple cryptocurrency built with lotionJS(for demo purpose), with Celadon plugged in.
 - [Sapling](https://github.com/reforest/sapling) - a 3D drawing package based on threeJS, to make generating trees in the browser easy and fun
 
+## Our Vision
+- We see **feroest** a middleware factory for potential better middleware handling for lotion.
+- We want to build a middleware framework for other developers to build things on top of lotion easier.
+- We want to make a nice marketplace website to discover and allow ppl to publish their middlewares.
+  - Think about **npmjs.com** for Lotion middlewares
+  - AWS marketplace for lotion middleware/projects using tendermint/hubs on COSMOS
+
 ## Teammates
 
 - [Andy Chen(amazingandyyy)](https://github.com/amazingandyyy): amazingandyyy@gmail.com
