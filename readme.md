@@ -13,10 +13,10 @@
 
 ## Teammates
 
-- [Andy Chen(amazingandyyy)](https://github.com/amazingandyyy)
-- [Ryan Cheung)](https://github.com/cheung31)
-- [Hayden Marx](https://github.com/Haydenmarx)
-- [Nuno](https://github.com/storycoding)
+- [Andy Chen(amazingandyyy)](https://github.com/amazingandyyy): amazingandyyy@gmail.com
+- [Ryan Cheung)](https://github.com/cheung31): cheung31@gmail.com
+- [Hayden Marx](https://github.com/Haydenmarx): haydenmarx@gmail.com
+- [Nuno](https://github.com/storycoding): youknownuno@gmail.com
 
 ## Hackathon Info
 
