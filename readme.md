@@ -8,7 +8,7 @@
 - [Celadon](https://github.com/reforest/celadon) - a lotionjs transaction middleware, which allows users to donate a small percentage of their transaction to the non-profit organization of their choose.
 - [Fungus](https://github.com/reforest/fungus) - a package to ease interactions with Lambocoin like web3 for Ethereum
 - [Acre](https://github.com/reforest/client) - an explorer for Celadon such as Etherscan for Ethereum.
-- Lambocoin - a simple cryptocurrency built with lotionJS(for demo purpose), with Celadon plugged in.
+- [Lambocoin](https://github.com/reforest/lambocoin)- a simple cryptocurrency built with lotionJS(for demo purpose), with Celadon plugged in.
 - [Sapling](https://github.com/reforest/sapling) - a 3D drawing package based on threeJS, to make generating trees in the browser easy and fun
 
 ## Teammates
