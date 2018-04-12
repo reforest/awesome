@@ -1,4 +1,4 @@
-# Reforest
+# Reforest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - We want to apply cosmos team's mindset, to modulize blockchain and simplify the complexity to make "making cryptocurrency environmentally friendly" easy. And to also allow users to give back with every transaction.
 - Putting the green back in the scene.
