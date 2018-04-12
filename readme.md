@@ -21,7 +21,7 @@
 ## Teammates
 
 - [Andy Chen(amazingandyyy)](https://github.com/amazingandyyy): amazingandyyy@gmail.com
-- [Ryan Cheung)](https://github.com/cheung31): cheung31@gmail.com
+- [Ryan Cheung](https://github.com/cheung31): cheung31@gmail.com
 - [Hayden Marx](https://github.com/Haydenmarx): haydenmarx@gmail.com
 - [Nuno Neves](https://github.com/storycoding): youknownuno@gmail.com
 
